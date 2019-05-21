@@ -34,6 +34,7 @@ This documentation is for CARLA versions *newer* than 0.9.4.
     cd catkin_ws/src
     ln -s ../../ros-bridge
     source /opt/ros/kinetic/setup.bash
+    # source FileName: 在当前bash环境下读取并执行FileName中的命令 -- 该命令通常用命令“.”来替代
     cd ..
 
     #install required ros-dependencies

@@ -61,6 +61,7 @@ Wait for the message:
 Then start the ros bridge (choose one option):
 
     export PYTHONPATH=$PYTHONPATH:<path/to/carla/>/PythonAPI/<your_egg_file>
+    # explaination of PYTHONPATH on Ubuntu https://blog.csdn.net/jasonzzj/article/details/53941147
     source ~/carla-ros-bridge/catkin_ws/devel/setup.bash
 
     # Option 1: start the ros bridge

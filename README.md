@@ -232,3 +232,6 @@ Check the installation is successfull by trying to import carla from python:
     python -c 'import carla;print("Success")'
 
 You should see the Success message without any errors.
+
+
+How to launch a node with steering wheel manual control?
